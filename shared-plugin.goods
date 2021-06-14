@@ -1,0 +1,10 @@
+{
+    "name": "Shared Plugin",
+    "git": {
+        "url": "https://github.com/ChatTheatre/shared-plugin",
+        "branch": "main"
+    },
+    "paths": {
+        "skoot/data/vault": "data/vault"
+    }
+}
